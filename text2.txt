@@ -3,6 +3,9 @@ test2-
 test3
 test4
 test5
+<<<<<<< HEAD
 test6
 test7
 
+=======
+>>>>>>> parent of 7f5a150... c6
